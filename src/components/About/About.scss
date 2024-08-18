@@ -1,0 +1,44 @@
+.about{
+    height: 50vh;
+    background-color: #dad9d7;
+    .wrapper{
+        width: 1366px;
+        margin: auto;
+        display: flex;
+        height: 100%;
+        
+        .left{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            gap: 70px;
+        h2{
+            font-size: 40px;
+        }
+        p{
+            width: 80%;
+            text-align: center;
+        }
+        button{
+            border: none;
+        width: 50%;
+        padding: 10px;
+        border-radius: 20px;
+        background-color: #3a50f9;
+        color: white;
+        font-size: 18px;
+        text-transform: uppercase;
+        }
+
+    }
+    .right{
+        img{
+            height: 100%;
+            width: 500px;
+            object-fit: cover   ;
+        }
+    }
+    }
+    
+}

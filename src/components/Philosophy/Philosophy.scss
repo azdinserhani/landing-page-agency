@@ -1,0 +1,84 @@
+.philosophy {
+  height: auto;
+  width: 1366px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  
+
+  .image {
+    height: 700px;
+    width: 700px;
+    border-radius: 50%;
+    background-image: url("https://img.freepik.com/free-photo/woman-working-call-center-office_23-2149256077.jpg?t=st=1723901456~exp=1723905056~hmac=6876c948b244728049c60b1aba8bf9cf7d821c08e2a3ec455f666a111acf81d0&w=826");
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.75);
+    margin-top: 150px;
+    position: relative;
+    .circle-top {
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+
+      border: 70px #3a50f9 solid;
+      position: absolute;
+      top: -100px;
+      right: -100px;
+      z-index: -3;
+    }
+    .circle-buttom {
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      background-color: #3a50f9;
+      border: 70px #3a50f9 solid;
+      position: absolute;
+      bottom: -50px;
+      left: -50px;
+    }
+    .circle-image {
+        height: 300px;
+      width: 300px;
+      border-radius: 50%;
+        background-image: url("../../../public/men.jpg");
+        background-size: cover;
+      border: 15px #3a50f9 solid;
+      position: absolute;
+      bottom: -100px;
+      right: -100px;
+      z-index: 100;
+    }
+  }
+  .card {
+    width: 50%;
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    h2 {
+      font-size: 50px;
+    }
+    p {
+    }
+    button {
+      border: none;
+        width: 300px;
+        padding: 10px;
+        border-radius: 20px;
+        background-color: #3a50f9;
+        color: white;
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+  }
+}
