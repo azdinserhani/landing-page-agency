@@ -2,9 +2,7 @@ Here is a template for your `README.md` file for the [landing-page-agency](https
 
 ---
 
-# Landing Page Agency
 
-![Landing Page Screenshot](./path_to_your_screenshot.png)
 
 A sleek and modern landing page template for agencies, built with modern web technologies. This template is fully responsive and designed to help agencies showcase their services, portfolios, and team members in a visually appealing way.
 
