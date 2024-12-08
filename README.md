@@ -1,9 +1,3 @@
-Here is a template for your `README.md` file for the [landing-page-agency](https://github.com/azdinserhani/landing-page-agency.git) repository:
-
----
-
-
-
 A sleek and modern landing page template for agencies, built with modern web technologies. This template is fully responsive and designed to help agencies showcase their services, portfolios, and team members in a visually appealing way.
 
 ## Features
@@ -83,9 +77,6 @@ Contributions are welcome! If you have any improvements or suggestions, feel fre
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or want to reach out, you can find me at:
 
 - **GitHub**: [azdinserhani](https://github.com/azdinserhani)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
