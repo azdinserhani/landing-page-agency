@@ -79,6 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 - **GitHub**: [azdinserhani](https://github.com/azdinserhani)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/az-eddine-serhani-32033a288/)
 
 ---
